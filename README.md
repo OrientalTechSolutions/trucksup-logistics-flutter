@@ -6,6 +6,14 @@ Built by [Oriental Tech Solutions](https://github.com/OrientalTechSolutions) · 
 
 ---
 
+## Screenshots
+
+![Trucks Up live GPS tracking](live-tracking.png)
+
+![Trucks Up fleet management](fleet.png)
+
+![Trucks Up load booking](loads.png)
+
 ## The need
 
 A transport business needed to see every truck on the map, manage loads and trips in one place, and keep trip records ready for invoicing.
